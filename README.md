@@ -1,3 +1,4 @@
+
 # Titanic Exploratory Data Analysis (EDA)
 
 ## Project Overview
@@ -76,3 +77,7 @@ This project demonstrates how Python can be used to inspect, clean, analyze, and
 
 ---
 **Project:** CodeAlpha Data Analytics Internship – Task 2: Exploratory Data Analysis
+=======
+# CodeAlpha_Exploratory-Data-Analysis
+Titanic Exploratory Data Analysis (EDA) project using Python, Pandas, NumPy, Matplotlib, and Seaborn. This project explores Titanic passenger data, handles missing values, analyzes survival patterns, and creates visualizations to identify trends and insights.
+>>>>>>> dc902333b3ec67f9aa4a7294328566435a28c199
